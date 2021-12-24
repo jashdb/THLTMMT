@@ -1,0 +1,11 @@
+_ Spin: (quan trọng nhất) Chức năng cho phép spin khối đang rơi. Lưu ý:
+	+ Có 5 loại khối: Chữ L,chữ I, chứ T, chữ Z, khối vuông
+	+ Kiểm soát 'tính xoay được', xây dựng các quy tắc và điều kiện xoay cho từng loại trong 5 loại trên
+	+ Đưa ra khái niệm 'pause time', khoảng thời gian dừng lại tối đa khi 1 khối đang trong quá trình xoay. Trong khoảng thời gian này khối sẽ không rơi.
+	+ Nên có 2 lựa chọn xoay: cùng chiều và ngược chiều kim đồng hồ
+_ Super spin (optional): VD: T-spin
+_  7-bag randomizer (hệ thống random các khối tetris trong game nên "ko quá" random, nên là pseudo-random, VD như sau 7 lượt mà chưa ra đc 1 Khối chữ T thì nên cho ra khối đấy ở lượt tiếp theo)
+_ More than 1 piece review (Nên cho xem trước tới 2-3 hoặc nhiều hơn khối sẽ rơi)
+_ Hold (Nên có chức năng hold 1 khối)
+_ Hard drop (Nên có chức năng hard drop: drop đc 1 khối ngay lập tức)
+_ Ghost piece (Nên cho xem 1 khối ma: khối mờ mờ thể hiện vị trí sẽ rơi xuống của khối đang rơi)
